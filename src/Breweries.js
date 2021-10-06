@@ -13,7 +13,7 @@ const Breweries = () => {
                         <img src={first} alt="first" />
                         <figcaption><h3>Billions upon billions</h3></figcaption>
                     </figure>
-                    <p>Made in the interiors of collapsing star stuff harvesting star light venture billions Drake Equation brain is the seed of intelligence?</p>
+                    <p>Made in the interiors of collapsing star stuff harvesting star light venture billions Drake Equation brain is the seed of real intelligence</p>
                     <a href="!#">Visit Website</a>
 
                     <figure>
