@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Adamkhairat/Drinks.github.io/static/css/main.a346dfbe.chunk.css",
+    "main.js": "/Adamkhairat/Drinks.github.io/static/js/main.37e7813e.chunk.js",
+    "main.js.map": "/Adamkhairat/Drinks.github.io/static/js/main.37e7813e.chunk.js.map",
+    "runtime-main.js": "/Adamkhairat/Drinks.github.io/static/js/runtime-main.3c2a2181.js",
+    "runtime-main.js.map": "/Adamkhairat/Drinks.github.io/static/js/runtime-main.3c2a2181.js.map",
+    "static/js/2.3bdceeef.chunk.js": "/Adamkhairat/Drinks.github.io/static/js/2.3bdceeef.chunk.js",
+    "static/js/2.3bdceeef.chunk.js.map": "/Adamkhairat/Drinks.github.io/static/js/2.3bdceeef.chunk.js.map",
+    "static/js/3.48fd4b41.chunk.js": "/Adamkhairat/Drinks.github.io/static/js/3.48fd4b41.chunk.js",
+    "static/js/3.48fd4b41.chunk.js.map": "/Adamkhairat/Drinks.github.io/static/js/3.48fd4b41.chunk.js.map",
+    "index.html": "/Adamkhairat/Drinks.github.io/index.html",
+    "static/css/main.a346dfbe.chunk.css.map": "/Adamkhairat/Drinks.github.io/static/css/main.a346dfbe.chunk.css.map",
+    "static/js/2.3bdceeef.chunk.js.LICENSE.txt": "/Adamkhairat/Drinks.github.io/static/js/2.3bdceeef.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Adamkhairat/Drinks.github.io/static/media/first.e9504f57.jpg",
+    "static/media/fourth.e9504f57.jpg": "/Adamkhairat/Drinks.github.io/static/media/fourth.e9504f57.jpg",
+    "static/media/second.e9504f57.jpg": "/Adamkhairat/Drinks.github.io/static/media/second.e9504f57.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c2a2181.js",
+    "static/js/2.3bdceeef.chunk.js",
+    "static/css/main.a346dfbe.chunk.css",
+    "static/js/main.37e7813e.chunk.js"
+  ]
+}
